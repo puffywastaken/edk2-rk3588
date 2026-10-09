@@ -16,5 +16,10 @@
 * rk3588s-fydetab-duo: <https://github.com/Linux-for-Fydetab-Duo/linux-rockchip/tree/14294048d2a0deb7f38c890329aded87038d3299/arch/arm64/boot/dts/rockchip>
   (note: dtb taken from the `noble` branch which is based on the rockchip 6.1 rkr3 bsp kernel)
 
+* rk3588s-radxa-cm5-io: <https://github.com/radxa/kernel/tree/master/arch/arm64/boot/dts/rockchip>
+  (TODO: build `rk3588s-radxa-cm5-io.dtb` and drop it into this directory;
+   Armbian uses BOOTCONFIG `radxa-cm5-io-rk3588s_defconfig`,
+   BOOT_FDT_FILE `rockchip/rk3588s-radxa-cm5-io.dtb`)
+
 ## License
 SPDX-License-Identifier: GPL-2.0-only

@@ -25,6 +25,7 @@ jobs:
         PLATFORM:
           - aio-3588q
           - blade3
+          - cm5
           - edge2
           - fydetab-duo
           - h88k
