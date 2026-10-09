@@ -1,0 +1,19 @@
+// SPDX-License-Identifier: (GPL-2.0+ OR MIT)
+
+#include "rk3588s-radxa-cm5-io.dts"
+
+&hdmi0_sound {
+        status = "okay";
+};
+
+&dp0_sound {
+        status = "okay";
+};
+
+&i2s6_8ch_tx {
+        status = "okay";
+};
+
+&i2s6_8ch_rx {
+        status = "okay";
+};

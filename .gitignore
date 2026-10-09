@@ -1,12 +1,1 @@
-boot-*.img
-uefi-*.img
-uefi-*.img.gz
-workspace
-*.dll
-ramdisk
-.cache
-.vscode
-*.swp
-*.rej
-*.orig
-*_FLASH.img
+(empty)
